@@ -1,0 +1,138 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+.index {
+    background-image: url(/General\ Play\ Image.jpg);
+    background-size: cover; 
+}
+/* It's been impossible to get my layout exactly centered and all for every screen so I did my best with it. For me, it looks how I want it when I have my view at 90%. 
+Hope that helps  */
+.Nav_Bar {
+    align-items: center;
+}
+
+
+.p1 {
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.p2 {
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+}
+
+.Nav {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    left: 0px;
+    color: black;
+    z-index: 10;
+    text-align: center;
+    
+}
+.Home {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 160px;
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+    left: 470px;
+}
+
+.About {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 145px;
+    position: fixed;
+    top: 0px;   
+    left: 631px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+}
+.Contact {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 145px;
+    position: fixed;
+    top: 0px;
+    left: 777px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+}
+header {
+    font-size: xx-large;
+}
+.Two {
+    font-size: x-large;
+}
+
+
+.img {
+    height: 250px;
+    width: 400px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.general-hyperlink {
+    text-decoration: black;
+    color: black;
+    font-size: x-large;
+}
+
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    text-align: center;
+}
+
+.Soccer {
+    width: 450px;
+    height: 300px;
+    float: right;
+    position: relative;
+    bottom: 400px;
+}
+
+.About_html {
+    background-color: lightblue;
+    
+    
+}
+
+.apple {
+    width: 800px;
+    
+}
