@@ -4,7 +4,7 @@ html {
 }
 
 .index {
-    background-image: url(/General\ Play\ Image.jpg);
+    background-image: url("General Play Image.jpg");
     background-size: cover; 
 }
 /* It's been impossible to get my layout exactly centered and all for every screen so I did my best with it. For me, it looks how I want it when I have my view at 90%. 
