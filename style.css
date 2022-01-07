@@ -20,6 +20,110 @@ html {
     border: 1px solid black;
 }
 
+.img3 {
+    height: 240px;
+    width: 350px;
+    position: relative;
+    float: right;
+    border: 1px solid black;
+    bottom: 310px;
+    margin-right: 5px;
+}
+
+.img4 {
+    height: 240px;
+    width: 350px;
+    position: relative;
+    float: left;
+    border: 1px solid black;
+}
+
+.img5 {
+    height: 200px;
+    width: 350px;
+    position: relative;
+    float: right;
+    border: 1px solid black;
+    bottom: 270px;
+    margin-right: 5px;
+}
+
 div {
     width: 1000px;
+}
+
+.Nav {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    left: 0px;
+    color: black;
+    z-index: 10;
+    text-align: center;
+    
+}
+.Home {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 160px;
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+    left: 470px;
+}
+
+.About {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 145px;
+    position: fixed;
+    top: 0px;   
+    left: 631px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+}
+.Contact {
+    color: black;
+    border: 1px solid black;
+    height: 75px;
+    width: 145px;
+    position: fixed;
+    top: 0px;
+    left: 777px;
+    margin: 0px;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    line-height: 65px;
+    text-decoration-line: underline;
+}
+
+.general-hyperlink {
+    text-decoration: black;
+    color: black;
+    font-size: x-large;
+}
+
+textarea{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

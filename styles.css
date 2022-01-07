@@ -13,11 +13,15 @@ Hope that helps  */
     align-items: center;
 }
 
+.header {
+    font-style: italic;
+}
 
 .p1 {
     font-size: large;
     padding-left: 50px;
     padding-right: 50px;
+    font-style: italic;
 }
 
 .p2 {
